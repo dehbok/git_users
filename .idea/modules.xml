@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../PAM/.idea/PAM.iml" filepath="$PROJECT_DIR$/../PAM/.idea/PAM.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git_users.iml" filepath="$PROJECT_DIR$/.idea/git_users.iml" />
     </modules>
   </component>
